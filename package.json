@@ -1,0 +1,26 @@
+{
+  "name": "blackjack-machine-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "es6-promise": "^3.1.2",
+    "es6-promise-chain": "^1.0.4",
+    "lodash": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamchairs/blackjack-machine-learning.git"
+  },
+  "author": "Micah Williamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchairs/blackjack-machine-learning/issues"
+  },
+  "homepage": "https://github.com/iamchairs/blackjack-machine-learning#readme"
+}

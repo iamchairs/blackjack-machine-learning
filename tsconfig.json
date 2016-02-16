@@ -1,0 +1,32 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "es2015",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true
+  },
+  "filesGlob": [
+    "node_modules/es6-promise/dist/es6-promise.js",
+    "node_modules/lodash/lodash.js",
+    "typings/tsd.d.ts",
+    "src/**/*.ts"
+  ],
+  "files": [
+    "node_modules/es6-promise/dist/es6-promise.js",
+    "node_modules/lodash/lodash.js",
+    "typings/tsd.d.ts",
+    "src/card.ts",
+    "src/game.ts",
+    "src/hand.ts",
+    "src/host.ts",
+    "src/hostHand.ts",
+    "src/lib/WhilePromise.ts",
+    "src/player.ts"
+  ],
+  "atom": {
+    "rewriteTsconfig": true
+  }
+}
